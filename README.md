@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadop&layout=compact" alt="fuadop" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuadop&show_icons=true" alt="fuadop" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuadop&show_icons=true&theme=dark" alt="fuadop" /></p>
