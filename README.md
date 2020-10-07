@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuad Olatunji</h1>
 <h3 align="center">A software engineering enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadop" alt="fuadop" /> </p>
+![template](/template.jpg)
 
 - 🔭 I’m currently working on [A typing game.](https://github.com/fuadop/PixelArt)
 
