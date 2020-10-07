@@ -1,7 +1,8 @@
+![template](/template.jpg)
+
 <h1 align="center">Hi 👋, I'm Fuad Olatunji</h1>
 <h3 align="center">A software engineering enthusiast.</h3>
 
-![template](/template.jpg)
 
 - 🔭 I’m currently working on [A typing game.](https://github.com/fuadop/PixelArt)
 
