@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fuadolatunji.surge.sh](https://fuadolatunji.surge.sh)
 
-- 💬 Ask me about **JavaScript and Nodejs.**
+- 💬 Ask me about **JavaScript, Nodejs, PWA.**
 
 - 📫 How to reach me **fuadolatunji@gmail.com**
 
