@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [A typing game.](https://github.com/fuadop/PixelArt)
 
-- 🌱 I’m currently learning **TypeScript, Go, Graphql, Reactjs & React native.**
+- 🌱 I’m currently learning **Go, Graphql, React native.**
 
 - 👯 I’m looking to collaborate on **Opensource.**
 
 - 👨‍💻 All of my projects are available at [https://fuadolatunji.surge.sh](https://fuadolatunji.surge.sh)
 
-- 💬 Ask me about **JavaScript, Nodejs, PWA.**
+- 💬 Ask me about **JavaScript, Nodejs, PWA, TypeScript, Reactjs.**
 
 - 📫 How to reach me **fuadolatunji@gmail.com**
 
