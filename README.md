@@ -11,13 +11,15 @@
 
 - 👯 I’m looking to collaborate on **Opensource.**
 
+- 🤔 I’m looking for an internship in **Software Engineering.**
+
 - 👨‍💻 All of my projects are available at [https://fuadolatunji.surge.sh](https://fuadolatunji.surge.sh)
 
 - 💬 Ask me about **JavaScript, Nodejs, PWA, TypeScript, Reactjs.**
 
 - 📫 How to reach me **fuadolatunji@gmail.com**
 
-- ⚡ Fun fact **I have a big dream.**
+- ⚡ Fun fact **I enjoy learning.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
