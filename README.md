@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource.**
 
-- 🤔 I’m looking for an internship in **Software Engineering.**
+- 🏢 I’m looking for an internship in **Software Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://fuadolatunji.surge.sh](https://fuadolatunji.surge.sh)
 
