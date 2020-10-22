@@ -5,8 +5,6 @@
 
 <br>
 
-- 🔭 I’m currently working on [A typing game.](https://github.com/fuadop/PixelArt)
-
 - 🌱 I’m currently learning **Go, Graphql, React native.**
 
 - 👯 I’m looking to collaborate on **Opensource.**
