@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **fuadolatunji@gmail.com**
 
-- ⚡ Fun fact **I enjoy learning.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
