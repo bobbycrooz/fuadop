@@ -5,11 +5,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **Go, Graphql, React native.**
+- 🌱 I’m currently learning **Go, React native, BlockChain(Ethereum).**
 
 - 👯 I’m looking to collaborate on **Opensource.**
 
-- 🏢 I’m looking for an internship in **Software Engineering.**
+- 🏢 I’m looking for an internship in **Fintech backend development and IOT.**
 
 - 👨‍💻 All of my projects are available at [https://fuadolatunji.surge.sh](https://fuadolatunji.surge.sh)
 
