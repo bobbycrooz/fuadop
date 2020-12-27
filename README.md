@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Go, React native, BlockChain(Ethereum).**
+- 🌱 I’m currently learning **Go, Php, React native, BlockChain(Ethereum).**
 
 - 👯 I’m looking to collaborate on **Opensource.**
 
