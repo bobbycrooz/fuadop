@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource.**
 
-- 🏢 I’m looking for an internship in **Fintech backend development and IOT.**
+- 🏢 I’m looking for an internship in **Fintech backend development, Mobile Development(React Native) and IOT.**
 
 - 👨‍💻 All of my projects are available at [https://fuadolatunji.surge.sh](https://fuadolatunji.surge.sh)
 
