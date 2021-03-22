@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Go, React native, Solidity(Ethereum), x86_32Assembly programming.**
+- 🌱 I’m currently learning **React native, C programming, x86_32Assembly programming.**
 
 - 👯 I’m looking to collaborate on **Opensource.**
 
