@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadop&label=Profile%20views&color=0e75b6&style=flat" alt="fuadop" /> </p>
 
-- 🌱 I’m currently learning **Solidity, penetration testing.**
+- 🌱 I’m currently learning **Golang, penetration testing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fuadop?tab=repositories](https://github.com/fuadop?tab=repositories)
 
