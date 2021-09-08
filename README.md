@@ -1,7 +1,7 @@
 ![template](/template.jpg)
 
 <h1 align="center">Hi 👋, I'm Fuad Olatunji</h1>
-<h3 align="center">I'm a full-stack javascript developer with major focus on nodejs and react native.</h3>
+<h3 align="center">I'm a Backend and Mobile Developer using MERN Stack and Golang to make software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadop&label=Profile%20views&color=0e75b6&style=flat" alt="fuadop" /> </p>
 
